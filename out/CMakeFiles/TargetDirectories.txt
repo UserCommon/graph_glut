@@ -1,0 +1,3 @@
+/home/usercommon/dev/c_glut/out/CMakeFiles/main.dir
+/home/usercommon/dev/c_glut/out/CMakeFiles/edit_cache.dir
+/home/usercommon/dev/c_glut/out/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/clang -Wall -Wextra -g CMakeFiles/main.dir/main.c.o -o main  /usr/lib/libglut.so -lm /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libXmu.so /usr/lib/libXi.so 
